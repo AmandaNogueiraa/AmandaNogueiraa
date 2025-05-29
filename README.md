@@ -95,19 +95,19 @@ Confira alguns dos meus projetos que demonstram minhas habilidades e paixões:
 
 ### 📊 [**JoinPDF**](https://pdfmergerwebapp.onrender.com)
 * **Descrição:** Uma ferramenta web robusta para manipular PDFs, permitindo unir, dividir e misturar arquivos de forma intuitiva.
-* **Tecnologias:** `Python` (Flask), `PyPDF2`, `HTML`, `CSS`, `JavaScript` (com barra de progresso, drag-and-drop e reordenação de arquivos).
+* **Tecnologias:** `Python` (Flask), `PyPDF2`, `HTML`, `CSS`, `JavaScript` .
 * **Status:** Em desenvolvimento contínuo, com foco em otimização e adição de novas funcionalidades.
 
 ### 🔑 **Gerador de Senhas**
 * **Descrição:** Um projeto focado em segurança, desenvolvendo uma ferramenta para criar senhas fortes e aleatórias, com opções de personalização para garantir a robustez.
-* **Tecnologias:** `Python` (ou outras linguagens/tecnologias que você usou, ex: `HTML`, `CSS`, `JavaScript` se for web).
+* **Tecnologias:** `HTML`, `CSS`, `JavaScript` .
 * **Status:** Concluido
 * **Repositório:** [**https://amandanogueiraa.github.io/Gerador-de-Senhas/**]
 
 
 
 ### 🤖 **Chatbot com Rasa**
-* **Descrição:** Meu segundo projeto em stand-by, focado no desenvolvimento de um chatbot inteligente e contextual para [mencione o propósito do chatbot, ex: atendimento, automação de FAQ, etc.].
+* **Descrição:** Meu segundo projeto em stand-by, focado no desenvolvimento de um chatbot inteligente e contextual para atendimento, automação de FAQ, suporte para clientes com foco em empresas pequenas.
 * **Tecnologias:** `Python`, `Rasa`.
 * **Status:** Em breve será retomado, com o objetivo de explorar ainda mais PNL e IA.
 
