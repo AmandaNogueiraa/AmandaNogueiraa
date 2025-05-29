@@ -1,6 +1,6 @@
 <div id="top"></div>
 
-<h1 align="center">Olá! Eu sou a Amanda Nogueira 👋</h1>
+<h1 align="center"> 👩🏻‍💻 Amanda Nogueira</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/amanda-nogueira-908281221/" target="_blank">
