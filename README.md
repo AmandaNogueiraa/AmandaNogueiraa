@@ -81,8 +81,8 @@ Aqui estão as tecnologias e ferramentas que eu domino e utilizo em meus projeto
 - **Visualização:** Criação de dashboards (`Dashboard Design`)
 - **Qualidade de Dados:** `ETL` (Conceitos), `Limpeza de Dados`
 - **Cibersegurança:** Interesse em `Segurança de Dados`
-- **Inteligência Artificial:** `Rasa` (para chatbots e PNL)
-- **Outras Ferramentas:** `Power Pages` (se relevante para seu dia a dia)
+- **Inteligência Artificial:** `Rasa` 
+
 
 ### 🌱 No que estou focando e aprendendo:
 Estou aprofundando em **Python para análise de dados e automação**, explorando **integração de APIs** e **soluções de nuvem** para dados. Também estou animada para aprimorar meu projeto de **chatbot com Rasa**, que envolve `PNL` e `IA`.
