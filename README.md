@@ -101,7 +101,7 @@ Confira alguns dos meus projetos que demonstram minhas habilidades e paixões:
 ### 🔑 **Gerador de Senhas**
 * **Descrição:** Um projeto focado em segurança, desenvolvendo uma ferramenta para criar senhas fortes e aleatórias, com opções de personalização para garantir a robustez.
 * **Tecnologias:** `Python` (ou outras linguagens/tecnologias que você usou, ex: `HTML`, `CSS`, `JavaScript` se for web).
-* **Status:** [Mencione o status, ex: "Concluído", "Em desenvolvimento", "Funcionalidade básica"]
+* **Status:** Concluido
 * **Repositório:** [**https://amandanogueiraa.github.io/Gerador-de-Senhas/**]
 
 
